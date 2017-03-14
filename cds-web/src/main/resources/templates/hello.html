@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head lang="en">
+    <meta charset="utf-8"></meta>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"></meta>
+    <meta name="viewport" content="width=device-width, initial-scale=1"></meta>
+    <title>CDS Safety Net</title>
+
+
+    <link href="http://cdn.jsdelivr.net/webjars/bootstrap/3.3.7/css/bootstrap.min.css"
+          th:href="@{/webjars/bootstrap/3.3.7/css/bootstrap.min.css}"
+          rel="stylesheet"/>
+    <link href="http://cdn.jsdelivr.net/webjars/bootstrap/3.3.7/css/bootstrap-theme.min.css"
+          th:href="@{/webjars/bootstrap/3.3.7/css/bootstrap-theme.min.css}"
+          rel="stylesheet"/>
+    <link href="../static/css/theme.css" th:href="@{/css/theme.css}" rel="stylesheet"/>
+
+
+</head>
+<body>
+<h1>Alerts</h1>
+<div class="container-fluid">
+    <!--/*@thymesVar id="message" type="java.lang.String"*/-->
+    <p th:text="'Hello, ' + ${message} + '!'">HELLO!</p>
+
+</div>
+
+<script src="http://cdn.jsdelivr.net/webjars/jquery/3.0.0/jquery.js"
+        th:src="@{/webjars/jquery/3.0.0/jquery.js}"></script>
+<script src="http://cdn.jsdelivr.net/webjars/bootstrap/3.3.7/js/bootstrap.min.js"
+        th:src="@{/webjars/bootstrap/3.3.7/js/bootstrap.min.js}"></script>
+</body>
+</html>

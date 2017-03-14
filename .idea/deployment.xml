@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="DEV">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/cds-web" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="DEV - agm">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/cds-web" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="DEV APP">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/cds-web" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="PROD">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/cds-web" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="PROD - agm">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/cds-web" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="PROD APP">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/cds-web" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="TEST">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/cds-web" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="TEST - agm">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/cds-web" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="TEST APP">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/cds-web" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
