@@ -23,6 +23,8 @@
     <!--/*@thymesVar id="message" type="java.lang.String"*/-->
     <p th:text="'Hello, ' + ${message} + '!'">HELLO!</p>
 
+    <div th:each="param: ${params}"><p th:text="${param.key} + ' = ' + ${param.value}"></p></div>
+
 </div>
 
 <script src="http://cdn.jsdelivr.net/webjars/jquery/3.0.0/jquery.js"
